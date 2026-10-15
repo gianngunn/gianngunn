@@ -1,4 +1,4 @@
-# Hi, I'm Spyridon 👋
+# Hi, I'm Spyros 👋
 
 Junior developer who has built web, Android and backend projects across PHP, Kotlin and Python with MongoDB. Currently looking for a **Junior Java Developer** role.
 
